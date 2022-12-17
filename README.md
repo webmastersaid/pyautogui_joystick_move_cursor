@@ -7,3 +7,5 @@
 
 ## run
 `python main.py` or `python3 main.py`
+
+Arduino [sketch](https://github.com/webmastersaid/arduino_joystick_move_cursor)
